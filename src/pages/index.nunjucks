@@ -1,0 +1,210 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+  {% include "partials/_header.nunjucks" %}
+
+  {% include "partials/_nav.nunjucks" %}
+
+  <!-- BANNER -->
+  {% include "partials/_banner.nunjucks" %}
+
+  <!-- INTRO -->
+  <div class="intro__container">
+    <div class="tile">
+      {% include "svgs/sail-intro-2.svg" %}
+    </div>
+    <div class="intro">
+      <h2 class="intro__heading">Now let us <span class="intro__emph" style="background-image: url(dist/images/squiggle.gif);">amaze</span> you</h2>
+    </div>
+  </div>
+
+  {% macro sailLink(href = '#', text = 'Learn more') %}
+    <div class="sail__link">
+      <a class="btn" href="{{ href }}">{{ text }}</a>
+    </div>
+  {% endmacro %}
+
+  <!-- BLOCK - CONNECT -->
+  <section class="module--sm sail connect">
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row">
+          <hgroup>
+            <h5 class="sail__kicker">Expand your reach</h5>
+            <h3>We connect you with your colleagues</h3>
+          </hgroup>
+          <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
+            <p>You’re part of a growing network—137,000 strong!—of osteopathic physicians and medical students dedicated to providing whole-person, empathic care. As an AOA member, you’ll enjoy countless opportunities to build leadership skills, share successes and collaborate with like-minded physicians.</p>  
+          </div>
+        </div>
+      </div>
+      <div class="bleed sail__fig">
+        <img src="dist/images/group-seaserpent-2.jpg" alt="" />
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOCK - ADVOCACY -->
+  <section class="module--sm sail advocacy" style="background-image: url(dist/images/capitol-orange-1.png);">
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row">
+          <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-4 col-md-8">
+            <hgroup>
+              <h5 class="sail__kicker--left">Make an impact</h5>
+              <h3>No one fights for you like we do</h3>
+            </hgroup>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-4 col-md-8">
+            <p>We're working on Capitol Hill, in your statehouse and across the globe to raise awareness of osteopathic medicine, champion regulatory improvements and promote access to care.</p>
+            <p>We engage directly with lawmakers to advance policies that support the osteopathic profession and mobilize grassroots campaigns that amplify the voices of DOs and their patients.</p>
+            {{ sailLink('/about/advocacy/') }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOCK - TOOLS -->
+  <section class="module sail tools">
+    <div class="sail__tile--top">
+      {% include "svgs/sail-1-top-2.svg" %}
+    </div>
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row between-xs">
+          <div class="col-xs-12 col-sm-6 col-md-6 sail__body-text">
+            <hgroup>
+              <h5 class="sail__kicker--left">Advance your career</h5>
+              <h3>We make your job easier</h3>
+            </hgroup>
+            <p>We understand the challenges you face as a practicing physician—from the regulatory burdens of running a practice to the time demands of billing and coding, certification and CME.</p>
+          </div>
+          <div class="col-xs-12 col-sm-5 col-md-6">
+            <div class="sail__fig phones">
+              <img src="dist/images/phones-2.png">
+            </div>
+          </div>
+        </div> <!-- .row -->
+      </div>
+    </div>
+    <div class="sail__addon container-fluid">
+      <div class="row between-xs wrap">
+        <div class="col-xs-12 col-sm-6 addon__item">
+          <div class="addon__fig">
+            <img src="dist/images/icon-chart.png" alt="Chart icon" />
+          </div>
+          <h5>Tools for tracking</h5>
+          <p>Our convenient tracking tools help free you up to do what you do best: practice medicine.</p>
+          <ul>
+            <li><strong>My AOA Dashboard</strong> &mdash; View a real-time snapshot of your CME licensure and board certification status.</li>
+            <li><strong>TraCME Service</strong> &mdash; Check out a detailed view of your CME Activity Report.</li>
+            <li><strong>AOA Physician Portal</strong> &mdash; Review AOA Board Certification requirements and track your OCC status.</li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-6 addon__item">
+          <div class="addon__fig">
+            <img src="dist/images/icon-phone.png" alt="Phone icon" />
+          </div>
+          <h5>Go ahead and call us</h5>
+          <p>AOA members have access to personal assistance from our Physician Services team in the areas of:</p>
+          <ul>
+            <li>Chart auditing</li>
+            <li>Medical record review</li>
+            <li>Credentialing</li>
+          </ul>
+          <p>In addition, our Customer Resource Center provides guidance on CME, board certification, student and resident affairs, research and more.</p>
+        </div>
+      </div> <!-- .row -->
+    </div>
+    <div class="sail__tile--bottom">
+      {% include "svgs/sail-1-bottom-2.svg" %}
+    </div>
+  </section>
+
+  <!-- BLOCK - DISCOUNTS -->
+  <section class="module--sm sail discounts">
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row">
+          <div class="col-xs-12 col-md-6">
+            <hgroup>
+              <h5 class="sail__kicker--left">Explore the benefits</h5>
+              <h3>Discounts. Oh, do we have discounts for you</h3>
+            </hgroup>
+            <p>The <a href="/about/aoa-membership/member-value-program">AOA Member Value Program</a> offers tools, resources and savings programs from dozens of industry leaders in practice innovation, wealth management, travel, insurance, auto and technology.</p>
+            <p>Check out our full slate of Member Value Program benefits to find programs tailored to your individual practice type and career stage.</p>
+            {{ sailLink('/about/aoa-membership/member-value-program') }}
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div class="sail__fig">
+              <img src="dist/images/shopping-bag-5.gif">
+            </div>
+          </div>
+        </div> <!-- .row -->
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOCK - DTD -->
+  <section class="module sail dtd">
+    <div class="sail__tile--top">
+      {% include "svgs/sail-2-top-2.svg" %}
+    </div>
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row">
+          <div class="col-xs-12 col-md-6 col-lg-5">
+            <div class="sail__fig">
+              <img src="dist/images/dtds-5.png" alt="" />
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6 col-lg-7">
+            <hgroup>
+              <h5 class="sail__kicker--left">Raise awareness</h5>
+              <h3>We tell the public how fantastic you are</h3>
+            </hgroup>
+            <p>Through our Doctors That DO national brand campaign, we’re spreading the word far and wide about the unique, holistic care DOs provide. Since launching in 2015, the campaign has driven more than 1 billion overall impressions and connected thousands of prospective patients with DOs via our Find Your DO search on <a href="https://doctorsthatdo.org">DoctorsThatDO.org</a></p>
+            {{ sailLink('https://doctorsthatdo.org') }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="sail__tile--bottom">
+      {% include "svgs/sail-2-bottom-2.svg" %}
+    </div>
+  </section>
+
+  <!-- CLOSER -->
+  <section class="module sail closer">
+    <div class="sail__container container-fluid">
+      <div class="sail__body wrap">
+        <div class="row center-xs">
+          <div class="col-xs-12 col-md-8">
+            <h5 class="sail__kicker">Become a member</h5>
+            <h3 class="closer__heading">There’s so much the AOA can do for you</h3>
+            <p>Join the organization that serves as the professional family for more than 137,000 DOs and medical students, working to advance the distinctive philosophy and practice of osteopathic medicine around the world.</p>
+          </div>
+        </div>
+        <div class="row center-xs">
+          <div class="col-xs-12 col-sm-5 closer__buttons">
+            <a class="btn btn-yellow" href="https://imis15-app.osteopathic.org/apps/dues/default.aspx">Join now</a>
+            <a class="btn btn-white-yellow" href="https://imis15-app.osteopathic.org/apps/dues/renew.aspx">Renew</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BACK TO TOP -->
+  {% include "partials/_back-to-top.nunjucks" %}
+
+  <!-- END -->
+  {% include "partials/_footer.nunjucks" %}
+
+  <script src="https://osteopathic.org/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" src="https://osteopathic.org/wp-content/themes/osteopathic/dist/scripts/main.js?ver=3"></script>
+{% endblock %}

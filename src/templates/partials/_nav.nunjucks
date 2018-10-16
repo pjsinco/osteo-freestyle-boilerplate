@@ -1,0 +1,389 @@
+<nav class="mobile-nav" style="top: 129px;">
+  <ul>
+    <li>
+      <a href="https://osteopathic.org/students/">Students <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="https://osteopathic.org/students/medical-school-timeline/">Medical School Timeline</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/affiliated-organizations/osteopathic-medical-schools/">Osteopathic Medical Schools</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/students/rotations/">Rotations</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/rotations/planning-for-rotations/">Planning for Rotations</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/rotations/selecting-a-specialty/">Choosing a Specialty</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/rotations/how-to-ace-your-rotations/">Rocking Your Rotations</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/students/preparing-for-comlex-exams/">Exam Prep</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/preparing-for-comlex-exams/comlex-1/">COMLEX 1</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/preparing-for-comlex-exams/comlex-2/">COMLEX 2</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/students/prepping-for-residency/">Prepping for Residency</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/prepping-for-residency/cv-personal-statement/">CV &amp; Personal Statement</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/prepping-for-residency/how-to-be-a-successful-residency-applicant/">Residency Interviews</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/prepping-for-residency/match-guide/">The Match</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/students/resources/">Student Resources</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/aoa-membership/aoa-student-membership/">Register for AOA Membership</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/resources/research/">Research</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/students/resources/single-gme/">Single GME</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/financial-planning/">Financial Planning</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/career-planning/">Career Planning</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/aoa-board-certification/">AOA Board Certification</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/your-health-wellness/">Your Health &amp; Wellness</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/residents/">Residents <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="https://osteopathic.org/residents/residency-timeline/">Residency Timeline</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/residents/recognition-of-training/">Training Recognition</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/recognition-of-training/aoa-recognition-of-acgme-pgy1-year/">Recognition of PGY1</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/recognition-of-training/recognition-of-federal-military-pgy1-training/">Recognition of Military PGY1</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/recognition-of-training/aoa-recognition-of-acgme-pgy2-and-beyond-including-fellowship-recognition/">Recognition of PGY2 &amp; Beyond</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/recognition-of-training/trainee-forms-applications/">Trainee Forms &amp; Applications</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/residents/prepping-for-exams/">Exam Prep</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/prepping-for-exams/comlex-3/">COMLEX 3</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/aoa-board-certification/">AOA Board Certification</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/residents/resident-resources/">Resident Resources</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/research/research-grants/research-training-grants/">Research</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/financial-planning/">Financial Planning</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/career-planning/">Career Planning</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/resident-resources/residents-single-gme/">Single GME</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/your-health-wellness/">Your Health &amp; Wellness</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/residents/resident-resources/get-involved/">Get Involved</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/practicing-medicine/">Practicing Medicine <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="https://osteopathic.org/practicing-medicine/business-of-medicine/">Business of Medicine</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/hipaa/">HIPAA</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/billing-coding/">Billing &amp; Coding</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/icd-10/">ICD-10</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/medicare-medicaid/">Participating in Medicare</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/starting-or-selling-a-practice/">Starting a Practice</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/business-of-medicine/selling-a-practice/">Selling or Closing a Practice</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/practicing-medicine/quality-payment-program/">Quality Payment Program</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/quality-payment-program/mips-guide/">MIPS Guide</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/quality-payment-program/apm-guide/">APM Guide</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/aoa-membership/member-value-program/">AOA Member Value</a>
+        </li>
+        <li>
+          <a href="http://aoapurchasepower.com/" rel="external" target="_blank">AOA Purchase Power</a>
+        </li>
+        <li>
+          <a href="http://aoa.qvhsystems.com/" rel="external" target="_blank">MIPS Navigator</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/practicing-medicine/providing-care/">Providing Care</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/empathy/">Empathy in Medicine</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/early-childhood-development-modules/">Early Childhood Development</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/alzheimers-toolkit/">Alzheimer's Education</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/teen-prescription-drug-abuse/">Teen Prescription Drug Abuse</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/core-rems-cme/">Safe Opioid Prescribing</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/volunteer-at-mda-camps/">Volunteer at an MDA Camp</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/practicing-medicine/providing-care/clinical-assessment-program/">AOA CAP</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/life-career/">Life + Career <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/career-planning/">Career Center</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/research/">Research</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/research/research-focus-areas/">Research Focus Areas</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/research/research-grants/">Research Funding/Grants</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/research/funded-projects/">Funded Projects</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/research/aoa-research-track/">AOA Research Conference</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/licensure/">Licensure</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/licensure/state-licensure/">State Licensure</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/life-career/licensure/international-licensure/">International Licensure</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/aoa-board-certification/">AOA Board Certification</a>
+        </li>
+        <li>
+          <a href="https://certification.osteopathic.org/specialties-and-subspecialties/" rel="external" target="_blank">Specialties &amp; Subspecialties</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/financial-planning/">Financial Planning</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/life-career/your-health-wellness/">Your Health &amp; Wellness</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/cme/">CME <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="http://cf.osteopathic.org/cmereport/cmereport_link.cfm" rel="external" target="_blank">
+          <style>
+          #header .lock { position: relative; top: 1px; left: 2px; background: url(/wp-content/uploads/2018/05/icon-lock-4.png) no-repeat 0 0; background-size: contain; width: 18px; height: 15px; display: inline-block } .logged-in #header .lock { display: none; }
+          </style>CME Report <span class="lock"></span></a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/cme/search/">CME Search</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/search/">On-Demand CME</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/search/">Live CME</a>
+        </li>
+        <li>
+          <a href="https://aoaonlinelearning.osteopathic.org" rel="external" target="_blank">AOA Online Learning</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/cme/cme-guide/">CME Guide</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/cme-guide/cme-requirements-2/">CME Requirements</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/cme-guide/types-of-credit/">Types of CME Credit</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/cme-guide/cme-exemptions-reductions/">Exemptions/Reductions</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/cme-faqs/">Frequently Asked Questions</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/cme-reporting-forms/">Reporting Forms</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/cme/search/">AOA CME Events</a>
+        </li>
+        <li>
+          <a href="https://omed.osteopathic.org" rel="external" target="_blank">OMED</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/event/rome-new-england/">ROME New England</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/cme/cme-sponsor-accreditation/">CME Sponsors</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/cme/grants-for-opioid-prescriber-education/">CO*RE REMS Grants</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/about/">About Us <span class="ico"></span></a>
+      <ul class="submenu">
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/aoa-membership/">AOA Membership</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/aoa-membership/member-value-program/">Member Value Program</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/aoa-statistics/">About the Profession</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/leadership/">Leadership &amp; Policy</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/leadership/board-of-trustees/">Board of Trustees</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/leadership/aoa-governance-documents/">Governance Documents</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/leadership/policy-search/">AOA Policy Search</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/contact-us/">Contact Us</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/advocacy/">Advocacy</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/advocacy/federal-advocacy-initiatives/">Federal Advocacy Initiatives</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/advocacy/state-advocacy-initiatives/">State Advocacy Initiatives</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/advocacy/international-advocacy/">International Advocacy Initiatives</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/aoa-events/">AOA Events</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/aoa-events/annual-business-meeting/">Annual Business Meeting</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/aoa-events/rome-new-england/">ROME New England</a>
+        </li>
+        <li>
+          <a href="https://omed.osteopathic.org" rel="external" target="_blank">OMED</a>
+        </li>
+        <li>
+          <a class="bold" href="https://aoa.rangemod.com/RetailSite.asp" rel="external" target="_blank">AOA Store</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/affiliated-organizations/">Affiliated Organizations</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/affiliated-organizations/osteopathic-medical-schools/">Medical Schools</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/affiliated-organizations/osteopathic-specialty-colleges/">Specialty Colleges</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/affiliated-organizations/state-osteopathic-associations/">State Associations</a>
+        </li>
+        <li>
+          <a class="bold" href="https://osteopathic.org/about/media-center/">Media Center</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/media-center/news-releases/">News Releases</a>
+        </li>
+        <li>
+          <a href="https://osteopathic.org/about/media-center/media-coverage/">Media Coverage</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://osteopathic.org/news/">News</a>
+    </li>
+    <li>
+      <a class="teal" href="https://doctorsthatdo.org/" rel="external" target="_blank">For Patients</a>
+    </li>
+    <li>
+      <a class="bold teal" href="http://jaoa.org/" rel="external" target="_blank">JAOA</a>
+    </li>
+    <li>
+      <a class="teal" href="https://thedo.osteopathic.org/" rel="external" target="_blank">The DO</a>
+    </li>
+    <li>
+      <a class="bold teal" href="/about/aoa-membership/">BECOME A MEMBER</a>
+    </li>
+    <li>
+      <a class="bold teal" href="https://certification.osteopathic.org/" rel="external" target="_blank">BOARD CERTIFICATION</a>
+    </li>
+  </ul>
+</nav>
+

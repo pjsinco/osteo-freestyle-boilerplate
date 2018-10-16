@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AOA Membership - American Osteopathic Association</title>
+  <link rel="stylesheet" href="https://use.typekit.net/vdi5qvx.css">
+  <link rel="stylesheet" href="https://osteopathic.org/wp-content/themes/osteopathic/dist/styles/main.css" type="text/css" media="all" />
+  <link rel="stylesheet" href="dist/styles.css" type="text/css" />
+  <style type="text/css" media="all">
+    body {
+      font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+  </style>
+</head>
+
+<body class="page-template page-template-template-freestyle page-template-template-freestyle-php page">
+
+  {% block content %}
+  {% endblock %}
+
+<!--   <script type="text/javascript" src="dist/bundle.js" charset="utf-8"></script> -->
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<section>
+  <div class="m-banner">
+    <img src="dist/images/banner-sea-serpent-5.gif" alt="Doctor treating a patient" />
+    <div class="addon__container">
+      <div class="sail__tile--top">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1439.9 602" preserveAspectRatio="xMidYMid meet">
+        	<path d="M1439.9,602V20.8c-61.7-10.2-140.6-13.7-236.6-10.3c-216.5,7.6-544.4,61.4-997.9,5.2C116.2,4.7,47.7-0.6,0,0v602H1439.9"></path>
+        </svg>
+      </div>
+      <div class="addon">
+        <div class="row wrap container-fluid between-xs">
+          <div class="col-xs-12 col-md-7">
+            <p>You’re a guardian of wellness, looking beyond symptoms to truly listen and partner with your patients. Our mission? To support you every step of the way.</p>
+          </div>
+          <div class="col-xs-12 col-md-5 addon__buttons">
+            <a class="btn btn-yellow" href="https://imis15-app.osteopathic.org/apps/dues/default.aspx">Join now</a>
+            <a class="btn btn-white-yellow" href="https://imis15-app.osteopathic.org/apps/dues/renew.aspx">Renew</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
