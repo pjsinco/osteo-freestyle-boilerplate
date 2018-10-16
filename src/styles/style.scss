@@ -1,0 +1,39 @@
+$blue: #000066;
+$bluealt: #000088;
+$bluealt2: #002b9e;
+$bluealt3: #02024a;
+$teal: #22a49c;
+$cornflower: #336195;
+$seaserpent: #11c7eb;
+$warm: #f9f7f5;
+$orange: #ffaa00;
+$paleyellow: #f9edd0;
+$white: #ffffff;
+$dark: #2a2a2a;
+
+$small: 480px;
+$small-start: $small;
+$medium-minor-minor: 552px;
+$medium-minor: 624px;
+$medium: 768px;
+$medium-start: $medium;
+$large-minor: 844px;
+$large: 992px;
+$large-start: $large;
+$xlarge: 1100px;
+$xlarge-start: $xlarge;
+
+$contentwidth: 1140px;
+$screen: 'screen';
+$screenwidth: 1440px;
+
+@mixin box-shadow {
+  box-shadow: 0 0 13px -1px rgba(0,0,0,.32);
+}
+
+@import 'vendor/breakpoint';
+@import '../../node_modules/sass-rem/rem';
+
+
+// Import partials here
+@import 'layout';

@@ -1,0 +1,134 @@
+/* Helpers: Floats and Clearing */
+%container-base {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+%container-fluid-base {
+  @extend %container-base;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+
+
+  @include breakpoint($screen $medium) {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+
+  @include breakpoint($screen $contentwidth + 32px) {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+}
+
+%wrap-base {
+  margin: 0 auto;
+}
+
+.wrap {
+  @extend %wrap-base;
+  max-width: $contentwidth;
+
+  &--site {
+    @extend %wrap-base;
+    max-width: $screenwidth;
+  }
+}
+
+.container {
+  @extend %container-base;
+}
+
+.container-fluid {
+  @extend %container-fluid-base;
+
+  &--alt {
+    padding-left: 0;
+    padding-right: 0;
+
+    & .col-xs-12 {
+      padding: 0;
+    }
+
+    @media screen and (min-width: 375px) {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+
+
+    @include breakpoint($screen $medium) {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+  }
+}
+
+.bleed {
+  margin-right: -1.5rem;
+  margin-left: -1.5rem;
+
+  @media screen and (min-width: 375px) {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+  }
+
+
+  @include breakpoint($screen $medium) {
+    margin-left: -3rem;
+    margin-right: -3rem;
+  }
+
+  @include breakpoint($screen 1172px) {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+}
+
+.rel {
+  position: relative;
+}
+
+.module {
+  margin-bottom: 3rem !important;
+
+  @media screen and (min-width: $medium) {
+    margin-bottom: 4rem !important;
+  }
+
+  @media screen and (min-width: $large-start) {
+    margin-bottom: 10rem !important;
+  }
+
+  &--small {
+    margin-bottom: 3rem !important;
+
+    @media screen and (min-width: $medium) {
+      margin-bottom: 4rem !important;
+    }
+
+    @media screen and (min-width: $large-start) {
+      margin-bottom: 5rem !important;
+    }
+  }
+
+  &--l {
+    margin-bottom: 9rem !important;
+
+    @media screen and (min-width: $medium) {
+      margin-bottom: 12rem !important;
+    }
+
+    @media screen and (min-width: $large-start) {
+      margin-bottom: 15rem !important;
+    }
+  }
+}
+
+.center {
+  text-align: center !important;
+}
+
+.pt {
+  padding-top: 1rem !important;
+}
